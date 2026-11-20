@@ -1,0 +1,13 @@
+docling
+sentence-transformers
+faiss-cpu
+rank-bm25
+torch
+transformers
+accelerate
+pandas
+numpy
+streamlit
+yfinance
+reportlab
+# optional (NVIDIA GPU / Colab 4-bit): pip install bitsandbytes
