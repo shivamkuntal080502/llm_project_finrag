@@ -1,0 +1,23 @@
+# ---- Light theme (default, warm "paper" look) ----
+[theme]
+base = "light"
+primaryColor = "#C96442"
+backgroundColor = "#FAF9F5"
+secondaryBackgroundColor = "#F0EEE6"
+textColor = "#1F1E1D"
+font = "sans serif"
+
+# ---- Dark theme: replace the [theme] block above with this one ----
+# [theme]
+# base = "dark"
+# primaryColor = "#E07B5A"
+# backgroundColor = "#212121"
+# secondaryBackgroundColor = "#171717"
+# textColor = "#ECECEC"
+# font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
